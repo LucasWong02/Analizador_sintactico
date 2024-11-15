@@ -1,0 +1,63 @@
+divide
+divide
+id
+id
+id
+intdcl id
+id
+id
+id
+id
+id
+divide
+divide
+intdcl id
+id
+id
+id
+id
+id
+id
+id
+divide
+divide
+floatdcl id
+id
+id
+id
+id
+id
+id
+assign
+inum
+divide
+divide
+id
+assign
+inum
+divide
+divide
+print id
+id
+intdcl id
+id
+id
+fnum
+id
+assign
+id
+plus
+fnum
+floatdcl id
+id
+intdcl id
+id
+divide
+divide
+id
+assign
+id
+plus
+fnum
+print id
+id
